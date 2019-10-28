@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rajiv-News-Project</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="news_api_key">aba316dfdc8746d58065e6d492d6659f</string>
+
+
+</resources>

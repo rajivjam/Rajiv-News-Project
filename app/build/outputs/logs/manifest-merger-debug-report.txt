@@ -1,0 +1,207 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/0aab9c67ad423e14985cad5ac0714bbc/lifecycle-extensions-2.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/f39eb0d9f43493142d33f7d93027f529/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/5cac13db28f9e0897f37824e175db978/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/fbcc85e7473d6cec6352283c29e84d1c/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/e7d7d3d552b93b9170f4586de886e232/jetified-core-ktx-1.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/46cf5919bf4c182b634f97ff4267f4e9/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/32048b1330f8cf312f02212e24d45d3f/jetified-glide-4.10.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/9ae1eb501c3eb7eb783334ca31e27258/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/16b484e743c22c294cc163770d2aceac/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/f0b64470f3b72e838f6c0b255762e09e/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/8392757efadab5e4764c8082530948ff/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/eaa929a38299dc4366def7699a8d9e22/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/4db31afc7d10a06c0dfa2a2e396d8259/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/fd6009690c52344059749aa480431b8a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/44c922dc3a5ffe1a0c710f7d9d8d6be6/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/e269b829bdd81968c7587c73cd38aa9f/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/26e56645d750b998197772494b1e4a20/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/fe4d2ac5076e9b0ad1c92713db8f7f00/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/9ae43b311a1aa42a40a01c955b7353de/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/fad1aa35f27b1667ff3da6713f7d79e6/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/795a2dc6467f0614bc2c230487f7af02/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/5ed837780824007dd49bc51acbcaf963/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/3041623d873a16469b6274fda83ed13b/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/6ed77b65fe77d088d151bc38951228e6/core-1.0.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/1cfbb376ba6f18b55f3c4c58f0eecf8c/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/664f412613f05133ad942c071cea42ad/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/b34dc9b9c083033142db497275ec8383/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/c577db0ed0458c66d560d15095026303/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/2a82f61a500eeb3d66f2b224412d5925/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/4ba5ff3e79dd711bd0437300a5fd175d/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/4c928288da284b6cf2883d9b6b2c210e/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/6afb080f4a7ceee0b5aca4b5c00e6c53/jetified-gifdecoder-4.10.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/70b584ab0a6a8b67981194bc473ffe0e/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/667e4bc3be51c3412ef19499bcbee052/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/174430c3de1457f28b360a3b6d663b11/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/a2d11fe17532ff1f6df39ff3138634b3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:6:22-73
+application
+ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:8:5-22:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/0aab9c67ad423e14985cad5ac0714bbc/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/0aab9c67ad423e14985cad5ac0714bbc/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/46cf5919bf4c182b634f97ff4267f4e9/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/46cf5919bf4c182b634f97ff4267f4e9/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/32048b1330f8cf312f02212e24d45d3f/jetified-glide-4.10.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/32048b1330f8cf312f02212e24d45d3f/jetified-glide-4.10.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/9ae1eb501c3eb7eb783334ca31e27258/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/9ae1eb501c3eb7eb783334ca31e27258/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.core:core:1.0.2] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/6ed77b65fe77d088d151bc38951228e6/core-1.0.2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/6ed77b65fe77d088d151bc38951228e6/core-1.0.2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/4ba5ff3e79dd711bd0437300a5fd175d/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/4ba5ff3e79dd711bd0437300a5fd175d/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/6afb080f4a7ceee0b5aca4b5c00e6c53/jetified-gifdecoder-4.10.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/6afb080f4a7ceee0b5aca4b5c00e6c53/jetified-gifdecoder-4.10.0/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/6ed77b65fe77d088d151bc38951228e6/core-1.0.2/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.rajiv.newsproject.view.MainActivity
+ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:15:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/0aab9c67ad423e14985cad5ac0714bbc/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/0aab9c67ad423e14985cad5ac0714bbc/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/f39eb0d9f43493142d33f7d93027f529/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/f39eb0d9f43493142d33f7d93027f529/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/5cac13db28f9e0897f37824e175db978/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/5cac13db28f9e0897f37824e175db978/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/fbcc85e7473d6cec6352283c29e84d1c/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/fbcc85e7473d6cec6352283c29e84d1c/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/e7d7d3d552b93b9170f4586de886e232/jetified-core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/e7d7d3d552b93b9170f4586de886e232/jetified-core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/46cf5919bf4c182b634f97ff4267f4e9/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/46cf5919bf4c182b634f97ff4267f4e9/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/32048b1330f8cf312f02212e24d45d3f/jetified-glide-4.10.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/32048b1330f8cf312f02212e24d45d3f/jetified-glide-4.10.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/9ae1eb501c3eb7eb783334ca31e27258/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/9ae1eb501c3eb7eb783334ca31e27258/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/16b484e743c22c294cc163770d2aceac/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/16b484e743c22c294cc163770d2aceac/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/f0b64470f3b72e838f6c0b255762e09e/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/f0b64470f3b72e838f6c0b255762e09e/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/8392757efadab5e4764c8082530948ff/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/8392757efadab5e4764c8082530948ff/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/eaa929a38299dc4366def7699a8d9e22/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/eaa929a38299dc4366def7699a8d9e22/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/4db31afc7d10a06c0dfa2a2e396d8259/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/4db31afc7d10a06c0dfa2a2e396d8259/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/fd6009690c52344059749aa480431b8a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/fd6009690c52344059749aa480431b8a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/44c922dc3a5ffe1a0c710f7d9d8d6be6/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/44c922dc3a5ffe1a0c710f7d9d8d6be6/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/e269b829bdd81968c7587c73cd38aa9f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/e269b829bdd81968c7587c73cd38aa9f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/26e56645d750b998197772494b1e4a20/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/26e56645d750b998197772494b1e4a20/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/fe4d2ac5076e9b0ad1c92713db8f7f00/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/fe4d2ac5076e9b0ad1c92713db8f7f00/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/9ae43b311a1aa42a40a01c955b7353de/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/9ae43b311a1aa42a40a01c955b7353de/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/fad1aa35f27b1667ff3da6713f7d79e6/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/fad1aa35f27b1667ff3da6713f7d79e6/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/795a2dc6467f0614bc2c230487f7af02/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/795a2dc6467f0614bc2c230487f7af02/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/5ed837780824007dd49bc51acbcaf963/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/5ed837780824007dd49bc51acbcaf963/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/3041623d873a16469b6274fda83ed13b/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/3041623d873a16469b6274fda83ed13b/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/6ed77b65fe77d088d151bc38951228e6/core-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/6ed77b65fe77d088d151bc38951228e6/core-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/1cfbb376ba6f18b55f3c4c58f0eecf8c/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/1cfbb376ba6f18b55f3c4c58f0eecf8c/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/664f412613f05133ad942c071cea42ad/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/664f412613f05133ad942c071cea42ad/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/b34dc9b9c083033142db497275ec8383/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/b34dc9b9c083033142db497275ec8383/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/c577db0ed0458c66d560d15095026303/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/c577db0ed0458c66d560d15095026303/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/2a82f61a500eeb3d66f2b224412d5925/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/2a82f61a500eeb3d66f2b224412d5925/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/4ba5ff3e79dd711bd0437300a5fd175d/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/4ba5ff3e79dd711bd0437300a5fd175d/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/4c928288da284b6cf2883d9b6b2c210e/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/4c928288da284b6cf2883d9b6b2c210e/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/6afb080f4a7ceee0b5aca4b5c00e6c53/jetified-gifdecoder-4.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/6afb080f4a7ceee0b5aca4b5c00e6c53/jetified-gifdecoder-4.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/70b584ab0a6a8b67981194bc473ffe0e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/70b584ab0a6a8b67981194bc473ffe0e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/667e4bc3be51c3412ef19499bcbee052/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/667e4bc3be51c3412ef19499bcbee052/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/174430c3de1457f28b360a3b6d663b11/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/174430c3de1457f28b360a3b6d663b11/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/a2d11fe17532ff1f6df39ff3138634b3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/a2d11fe17532ff1f6df39ff3138634b3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rajivr/Desktop/Rajiv-News-Project/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/9ae1eb501c3eb7eb783334ca31e27258/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/9ae1eb501c3eb7eb783334ca31e27258/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/9ae1eb501c3eb7eb783334ca31e27258/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/9ae1eb501c3eb7eb783334ca31e27258/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/rajivr/.gradle/caches/transforms-2/files-2.1/9ae1eb501c3eb7eb783334ca31e27258/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79
