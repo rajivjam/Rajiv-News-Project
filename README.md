@@ -4,8 +4,7 @@ Very Simple application to demonstrate MVVM design pattern
 
 ## Used technologies to develop this application.
 
-Markup :
-         * Kotlin
+Markup : * Kotlin
          * MVVM
          * RecyclerView
          * Retrofit
