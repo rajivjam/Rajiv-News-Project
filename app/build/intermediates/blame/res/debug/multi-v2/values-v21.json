@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/rajivr/Desktop/Rajiv-News-Project/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/Users/rranjan4/Rajiv-News-Project/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "/Users/rajivr/.gradle/caches/transforms-2/files-2.1/6ed77b65fe77d088d151bc38951228e6/core-1.0.2/res/values-v21/values-v21.xml",
+                    "source": "/Users/rranjan4/.gradle/caches/transforms-2/files-2.1/d0faa7e87181cec61df420f7c6fa99d1/core-1.0.2/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/rajivr/.gradle/caches/transforms-2/files-2.1/8392757efadab5e4764c8082530948ff/media-1.0.0/res/values-v21/values-v21.xml",
+                    "source": "/Users/rranjan4/.gradle/caches/transforms-2/files-2.1/25bc4e9ea7fb8e67650833f849b470ad/media-1.0.0/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,5,8,11",
                         "startColumns": "4,4,4,4",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "/Users/rajivr/.gradle/caches/transforms-2/files-2.1/fbcc85e7473d6cec6352283c29e84d1c/appcompat-1.0.2/res/values-v21/values-v21.xml",
+                    "source": "/Users/rranjan4/.gradle/caches/transforms-2/files-2.1/67a46ba5d6deb9f9b6753e82b9183905/appcompat-1.0.2/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,20,21,22,24,26,27,28,29,30,32,34,36,38,40,42,43,48,50,52,53,54,56,58,59,60,61,62,63,107,110,154,157,160,162,164,166,169,171,174,175,176,179,180,181,182,183,184,187,188,190,192,194,196,200,202,203,204,205,207,211,213,215,216,217,218,219,221,222,223,233,234,235,247",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

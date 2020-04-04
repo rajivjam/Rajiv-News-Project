@@ -15,7 +15,7 @@ import javax.inject.Inject
 class MainActivityViewModel(application: Application) : BaseViewModel(application) {
     @Inject
     lateinit var newsServiceApi: NewsServiceApi
-    private val apiKey = "aba316dfdc8746d58065e6d492d6659f"
+    private val apiKey = ""
 
     internal var mutableLiveData: MutableLiveData<List<Article>>? = null
 

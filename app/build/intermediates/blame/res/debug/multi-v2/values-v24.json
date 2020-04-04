@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/rajivr/Desktop/Rajiv-News-Project/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/Users/rranjan4/Rajiv-News-Project/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/rajivr/.gradle/caches/transforms-2/files-2.1/fbcc85e7473d6cec6352283c29e84d1c/appcompat-1.0.2/res/values-v24/values-v24.xml",
+                    "source": "/Users/rranjan4/.gradle/caches/transforms-2/files-2.1/67a46ba5d6deb9f9b6753e82b9183905/appcompat-1.0.2/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/rajivr/.gradle/caches/transforms-2/files-2.1/8392757efadab5e4764c8082530948ff/media-1.0.0/res/values-v24/values-v24.xml",
+                    "source": "/Users/rranjan4/.gradle/caches/transforms-2/files-2.1/25bc4e9ea7fb8e67650833f849b470ad/media-1.0.0/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
